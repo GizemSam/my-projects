@@ -5,7 +5,7 @@
 ### İş Problemi (Business Problem)
 - Firma Personellerinin istifa(churn) nedenlerini araştırlması bunun için önlem alınmasını ve şirkete katılan 
 veya şirket içindeki olası istifa edecek olan personelleri belirlemek içinbir  makine öğrenme modeli geliştirilmesini isitiyor.
-- Amaç istifa nedenlerini belirleyerek en etkili nedener üzerinden şirket içi iyileştirmeler yapmak, daha fazla personel kaybetmemek..
+- Amaç istifa nedenlerinde etkili olan durumlar üzerinden şirket içi iyileştirmeler yapmak, daha fazla personel kaybetmemek..
 ---
 # Veri Seti 
 
