@@ -57,7 +57,7 @@ veya şirket içindeki olası istifa edecek olan personelleri belirlemek içinbi
 - Feature Engineering Sonrası Modellerin Kurulması
 - Hiperparametre optimizasyonu
 - Yeni Değişkenerin Modele Etkisi
--
+
 ---
 
 ![alt text](https://editor.analyticsvidhya.com/uploads/27422asda.jpg)
